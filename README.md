@@ -1,3 +1,3 @@
 # Curve Gauge Voting Analytics Dashboard
 
-Work still in progress, check back on October 4.
+Dashboard is located [on dune](https://dune.xyz/bizzyvinci/Curve-Gauge-Vote-Analysis).
